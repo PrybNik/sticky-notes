@@ -1,0 +1,10 @@
+.select {
+    cursor: pointer;
+    background-color: #8f8579;
+    color: #f7f0f5;
+    font-size: 3rem;
+    font-family: inherit;
+    margin-top: 1rem;
+    padding: 0 2rem;
+    border-radius: 10px;
+}

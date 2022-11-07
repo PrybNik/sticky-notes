@@ -1,0 +1,35 @@
+.main{
+    min-height: 100vh;
+    padding: 5rem 10rem;
+    background-color: #f7f0f5;
+}
+
+.scroll-block{
+    min-height: auto;
+    position: relative;
+    height: 80vh;
+}
+
+@media (max-width: 1600px) {
+    .main {
+        padding: 5rem 10rem;
+    }
+}
+
+@media (max-width: 1250px) {
+    .main {
+        padding: 4rem 7rem;
+    }
+}
+
+@media (max-width: 1000px) {
+    .main {
+        padding: 4rem 5rem;
+    }
+}
+
+@media (max-width: 750px) {
+    .main {
+        padding: 4rem 3rem;
+    }
+}
